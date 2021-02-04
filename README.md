@@ -1,2 +1,4 @@
 # Pacman
-My First Game
+This is my first game created with C++.
+
+It is still a work in progress.
